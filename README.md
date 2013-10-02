@@ -1,6 +1,6 @@
 # Profiles
 
-A bash function to quickly change iTerm2 profiles.  Really a bash function for me to quickly change the transparency of my iTerm window so I can ![watch Netflix while I code](intuition.png "intuition").
+A bash function to quickly change iTerm2 profiles.  Really a bash function for me to quickly change the transparency of my iTerm window so I can [watch Netflix while I code](intuition.png "intuition").
 
 ## Installation
 
